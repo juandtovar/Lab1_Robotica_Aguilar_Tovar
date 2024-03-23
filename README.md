@@ -14,13 +14,17 @@ Para el desarrollo de este laboratorio se realizaron los siguientes pasos
 ## Diagrama de flujo de acciones del robot
 El siguiente diagrama describe el accionamiento del robot en todos los casos, la variable _mantenimiento_ determina si se encontraba en dicha posición, las entradas digitales son DI_0X mientras que las entrada son DO_0X.
 
-<p align="center"> <img width="700" alt="workspace" src="media/flujo.jpeg"> </p>
+<p align="center"> <img width="550" alt="workspace" src="media/flujo.jpeg"> </p>
 
 
 
 ## Plano de planta elementos
 
 ## Diseño de la herramienta
+La herramienta se divide en 3 cuerpos: una base que se conecta al robot, un resorte para no oprimir de sobre manera el marcador y un cuerpo cilíndrico que sostiene el marcador. La base y el cilindro son roscados lo que permite reemplazar el marcador en cualquier momento. Su diseño en cada es el siguiente:
+
+<p align="center"> <img width="350" alt="workspace" src="media/cad1.jpeg"> </p>
+<p align="center"> <img width="350" alt="workspace" src="media/cad2.jpeg"> </p>
 
 ## Código en RAPID
 
