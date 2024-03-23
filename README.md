@@ -1,13 +1,14 @@
 # Lab1_Robotica_Aguilar_Tovar
 
 ## Contenido repositorio
+La carpeta _Nike_ contiene el proyecto de lo trabajado en la marca Nike, de manera análoga _Tiktok2_ contiene lo trabajado en la marca Tiktok. La carpeta _media_ contiene las imágenes de este documento, los archivos _HerramientaMarcadorEnsamblada v1.sat_ y _Silueta_nike_nombres.ipt_ contienen el cad de la herramienta (como un solo cuerpo) y la silueta generada para Nike.
 
 ## Solución planteada
 Para el desarrollo de este laboratorio se realizaron los siguientes pasos
-1. Se eligieron dos marcas para poder trabajar. en este caso Tikto y Nike.
-2. Se buscaron los logos y se modelaron en Inventor agregando las iniciales de los nombres de los integrantes del equipo.
-3. Se modeló la herramienta que se uso en el montaje.
-4. En RobotStudio se configuró la herramienta, los logos, se creó un objeto de trabajo, se crearon las trayectorias y se hizo la programación en RAPID con las entradas y salidas digitales.
+1. Se eligieron dos marcas para poder trabajar, en este caso Tiktok y Nike.
+2. Se buscaron los logos y se modelaron sobre una placa en Inventor agregando las iniciales de los nombres de los integrantes del equipo.
+3. Se modeló la herramienta que se uso en el montaje y se realizó su impresión en 3D.
+4. En RobotStudio se configuró la herramienta, los logos usando las placas modeladas anteriormente, se creó un objeto de trabajo sobre dichas placas, se crearon las trayectorias con base a las aristas de las placas y se hizo la programación en RAPID con las entradas y salidas digitales.
 5. Se simularon las trayectorias.
 6. Se implementó en el laboratorio.
 
@@ -16,18 +17,21 @@ El siguiente diagrama describe el accionamiento del robot en todos los casos, la
 
 <p align="center"> <img width="550" alt="workspace" src="media/flujo.jpeg"> </p>
 
-
-
-## Plano de planta elementos
-
 ## Diseño de la herramienta
 La herramienta se divide en 3 cuerpos: una base que se conecta al robot, un resorte para no oprimir de sobre manera el marcador y un cuerpo cilíndrico que sostiene el marcador. La base y el cilindro son roscados lo que permite reemplazar el marcador en cualquier momento. Su diseño en cada es el siguiente:
 
 <p align="center"> <img width="350" alt="workspace" src="media/cad1.jpeg"> </p>
 <p align="center"> <img width="350" alt="workspace" src="media/cad2.jpeg"> </p>
 
-## Código en RAPID
+Se imprimieron dos modelos de prueba que se presentan a continuación:
+
+<p align="center"> <img width="350" alt="workspace" src="media/exp5.jpg"> </p>
+<p align="center"> <img width="350" alt="workspace" src="media/exp6.jpg"> </p>
+<p align="center"> <img width="350" alt="workspace" src="media/exp1.jpeg"> </p>
+<p align="center"> <img width="350" alt="workspace" src="media/exp2.jpeg"> </p>
+<p align="center"> <img width="350" alt="workspace" src="media/exp3.jpeg"> </p>
+<p align="center"> <img width="350" alt="workspace" src="media/exp4.jpeg"> </p>
 
 ## Videos
 
-Los resultado de las distintas pruebas se consignan la siguiente lista de reproducción de [Youtube](https://www.youtube.com/watch?v=hpt4hrAIyEk&list=PLRvQ_9G7W0KRISnKxF9upumXdgGfY8UST)
+Los resultado de las distintas pruebas se consignan la siguiente lista de reproducción de [Youtube](https://www.youtube.com/watch?v=hpt4hrAIyEk&list=PLRvQ_9G7W0KRISnKxF9upumXdgGfY8UST), se presentan 6 videos: 3 simulaciones y 3 resultados en laboratorio.
