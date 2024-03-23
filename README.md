@@ -12,6 +12,8 @@ Para el desarrollo de este laboratorio se realizaron los siguientes pasos
 6. Se implementó en el laboratorio.
 
 ## Diagrama de flujo de acciones del robot
+El siguiente diagrama describe el accionamiento del robot en todos los casos, la variable _mantenimiento_ determina si se encontraba en dicha posición, las entradas digitales son DI_0X mientras que las entrada son DO_0X.
+<img width="700" alt="workspace" src="media/flujo.jpeg">
 
 ## Plano de planta elementos
 
