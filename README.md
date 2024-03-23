@@ -20,3 +20,5 @@ Para el desarrollo de este laboratorio se realizaron los siguientes pasos
 ## Código en RAPID
 
 ## Videos
+
+Los resultado de las distintas pruebas se consignan la siguiente lista de reproducción de [Youtube](https://www.youtube.com/watch?v=hpt4hrAIyEk&list=PLRvQ_9G7W0KRISnKxF9upumXdgGfY8UST)
